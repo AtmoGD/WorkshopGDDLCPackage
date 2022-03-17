@@ -1,0 +1,20 @@
+{
+  "name": "com.bearbones.gamedesignworkshopdlc",
+  "version": "1.0.0",
+  "displayName": "Game Design Workshop DLC",
+  "description": "A simple project to test and play",
+  "unity": "2020.3",
+  "author": {
+    "name": "Dennis Hawran",
+    "email": "infor@bearbones.de",
+    "url": "https://www.bearbones.de"
+  },
+  "type": "library",
+  "samples": [
+    {
+      "displayName": "Game Design Workshop DLC",
+      "description": "Contains all the world objects and the sample scenes",
+      "path": "Samples~/SampleContent"
+    }
+  ]
+}
