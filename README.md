@@ -1,1 +1,1 @@
-WorkshopGDDLCPackage
+WorkshopGD DLCPackage
