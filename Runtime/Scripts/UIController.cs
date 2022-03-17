@@ -48,6 +48,11 @@ public class UIController : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.P))
             PlayerPrefs.SetFloat("HighScore", 0f);
 
+        if (Input.GetKey("escape"))
+        {
+            Application.Quit();
+        }
+
         if(gameEnded) return;
 
         time += Time.deltaTime;
